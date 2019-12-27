@@ -1,2 +1,4 @@
 # hello-world
-try-version repository
+Hi everyone!
+
+I'm here to learn programming.
